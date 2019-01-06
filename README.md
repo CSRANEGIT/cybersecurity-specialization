@@ -9,3 +9,23 @@
 - [ ] Uranus
 - [ ] Neptune
 - [ ] Comet Haley
+
+
+
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y
+}
+```
+
+```c
+#include <string.h>
+
+int foo(void) {
+  char bar[128];
+  char *baz = &bar[0];
+  baz[127] = 0;
+  return strlen(baz);
+```
+
+Roses are <span style="color:red">red</span>, violets are <span style="color:blue">blue</span>.
