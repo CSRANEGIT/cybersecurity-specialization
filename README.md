@@ -42,12 +42,11 @@ Question 03
 -----------  
 Suppose you are compiling for a 32-bit platform and sizeof(int) == 4. Which one of the following is equivalent to c[b] if c is of type int* and b is of type int?
 
-- [ ] none of the above
 - [ ] -1 * b[c]
 - [ ] c[b][0]
 - [x] *(c+b)
 - [ ] *c+b
-
+- [ ] none of the above
 
 
 Question 04
