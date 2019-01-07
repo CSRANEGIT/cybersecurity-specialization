@@ -55,6 +55,9 @@ Question 04
 Consider the following program.
 
 ```
+
+
+
 #include <string.h>
 
 int foo(void) {
@@ -131,8 +134,9 @@ int main(int argc, char *argv[]) {
 - [ ] This program could crash at position 3
 - [ ] This program could crash at position 2
 - [ ] This program could crash at position 1
-- [ ] This program could crash at 1 and 2
 - [x] This program could crash at 2 and 3
+- [ ] This program could crash at 1 and 2
+
 
 
 
