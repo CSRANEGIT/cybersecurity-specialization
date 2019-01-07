@@ -53,9 +53,6 @@ Question 04
 Consider the following program.
 
 ```
-
-
-
 #include <string.h>
 
 int foo(void) {
@@ -63,7 +60,8 @@ int foo(void) {
   char *baz = &bar[0];
   baz[127] = 0;
   return strlen(baz);
-}```
+}
+```
 
 - [x] returns 127
 - [ ] returns 128
