@@ -55,9 +55,6 @@ Question 04
 Consider the following program.
 
 ```
-
-
-
 #include <string.h>
 
 int foo(void) {
