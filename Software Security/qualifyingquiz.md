@@ -1,5 +1,5 @@
 # Software Security
-π
+
 Qualifying Quiz
 =============== 
 
